@@ -1,0 +1,37 @@
+{
+    "intro": {
+        "name": "Introduction",
+        "title": "Introduction to HTML",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "html_tags": {
+        "name": "html_tags",
+        "title": "html tags",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "document":{
+        "name":"document",
+        "title":"HTML doucment strucutre",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "basic_tags":{
+        "name":"basic_tags",
+        "title":"some basic html tags",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "attributes":{
+        "name":"attributes",
+        "title":"HTML attributes",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "styles":{
+        "name":"styles",
+        "title":"styles",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "class-and-id":{
+        "name":"class-and-id",
+        "title":"class-and-id",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    }
+}

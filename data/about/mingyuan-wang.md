@@ -1,0 +1,1 @@
+Hi, I'm Mingyuan Wang, a member of the Paly Python team, and the content manager. I help create the content for the club. 

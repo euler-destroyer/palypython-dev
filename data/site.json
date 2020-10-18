@@ -1,0 +1,37 @@
+{
+    "welcome-to-paly-python": {
+        "date": "2020-8-9",
+        "author": "Rohan Phanse",
+        "image": "/images/palypython.png",
+        "title": "Welcome to Paly Python",
+        "description": "Welcome to Paly Python"
+    },
+    "story": {
+        "date": "2020-8-9",
+        "author": "Rohan Phanse",
+        "image": "/images/palypython.png",
+        "title": "Our story",
+        "description": "Why was Paly Python founded? What does it hope to achieve? Learn here..."
+    },
+    "website-launch": {
+        "date": "2020-8-9",
+        "author": "Jerry Xia",
+        "image": "/images/palypython.png",
+        "title": "Welcome to Paly Python",
+        "description": "The Paly Python website just launched - learn the "
+    },
+    "summer-camps": {
+        "date": "2020-8-9",
+        "author": "Rohan Phanse",
+        "image": "/images/palypython.png",
+        "title": "Welcome to Paly Python",
+        "description": "Welcome to Paly Python"
+    },
+    "learn-python-course": {
+        "date": "2020-8-9",
+        "author": "Atticus Kuhn",
+        "image": "/images/palypython.png",
+        "title": "Welcome to Paly Python",
+        "description": "Welcome to Paly Python"
+    }
+}

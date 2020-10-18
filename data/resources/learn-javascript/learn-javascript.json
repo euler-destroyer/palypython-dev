@@ -1,0 +1,42 @@
+{
+    "intro": {
+        "name": "Introduction",
+        "title": "Introduction to Javascript",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "consolelog": {
+        "name": "console.log",
+        "title": "Basica logging in Javascript",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "variables": {
+        "name": "variables",
+        "title": "varialbes in Javascript",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "conditionals": {
+        "name": "conditionals",
+        "title": "conditionals in Javascript",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "while_loop":{
+        "name":"while loop",
+        "title":"while loop",
+        "video":"https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "for_loop":{
+        "name":"for loop",
+        "title":"for loop",
+        "video":"https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "functions":{
+        "name":"functions",
+        "title":"functions",
+        "video":"https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "arrays":{
+        "name":"arrays",
+        "title":"arrays",
+        "video":"https://www.youtube.com/embed/oHg5SJYRHA0"
+    }
+}

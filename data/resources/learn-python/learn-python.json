@@ -1,0 +1,82 @@
+{
+    "intro": {
+        "name": "Introduction",
+        "title": "Introduction to Python",
+        "video": "https://www.youtube.com/embed/GGxOoRzkw4U"
+    },
+    "print": {
+        "name": "Print",
+        "title": "Print",
+        "video": "https://www.youtube.com/embed/MDkhOj2Admk"
+    },
+    "variables": {
+        "name": "Variables",
+        "title": "Variables",
+        "video": "https://www.youtube.com/embed/QjxRkqmNqvE"
+    },
+    "input": {
+        "name": "Input",
+        "title": "Input",
+        "video": "https://www.youtube.com/embed/O6JTZSN5rf0"
+    },
+    "data-structures": {
+        "name": "Data Structures",
+        "title": "Data Structures",
+        "video": "https://www.youtube.com/embed/J1MY3R4VlPA"
+    },
+    "numbers-and-math": {
+        "name": "Numbers and Math",
+        "title": "Numbers and Math",
+        "video": "https://www.youtube.com/embed/cp0G480L1rM"
+    },
+    "strings": {
+        "name": "Strings",
+        "title": "Strings",
+        "video": "https://www.youtube.com/embed/DacjWmypEww"
+    },
+    "lists": {
+        "name": "Lists",
+        "title": "Lists",
+        "video": "https://www.youtube.com/embed/G4ZOOrkdy3g"
+    },
+    "dictionaries": {
+        "name": "Dictionaries",
+        "title": "Dictionaries",
+        "video": "https://www.youtube.com/embed/i6avVd-5Iq8"
+    },
+    "conditionals": {
+        "name": "Conditionals",
+        "title": "Conditional Logic",
+        "video": "https://www.youtube.com/embed/CEJNx0ealmE"
+    },
+    "loops": {
+        "name": "Loops",
+        "title": "Loops",
+        "video": "https://www.youtube.com/embed/VX0TY3KUTmI"
+    },
+    "functions": {
+        "name": "Functions",
+        "title": "Functions",
+        "video": "https://www.youtube.com/embed/aEbJWzb4lFs"
+    },
+    "libraries": {
+        "name": "Libraries",
+        "title": "Libraries",
+        "video": "https://www.youtube.com/embed/a5qSsMtfJEE"
+    },
+    "classes": {
+        "name": "Classes",
+        "title": "Classes",
+        "video": "https://www.youtube.com/embed/Dx-5mK26ScE"
+    },
+    "map-and-filter": {
+        "name": "Map and Filter",
+        "title": "Map and Filter",
+        "video": "https://www.youtube.com/embed/bye0BX4Rtcg"
+    },
+    "conclusion": {
+        "name": "Conclusion",
+        "title": "Conclusion",
+        "video": ""
+    }
+}

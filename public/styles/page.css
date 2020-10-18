@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+
+/* Common colors */
+
+:root {
+    --text-dark: rgb(59, 59, 59);
+    --text-light: rgb(214, 214, 214);
+    --accent-dark: rgb(18, 60, 95);
+    --accent-light: rgb(75, 139, 190);
+    --nav-height: 60.17px;
+}
+
+* {
+    box-sizing: border-box;
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    font-family: "Source Sans Pro", sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+input {
+    font-family: "Source Sans Pro", sans-serif;
+}

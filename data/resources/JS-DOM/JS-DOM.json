@@ -1,0 +1,42 @@
+{
+    "intro": {
+        "name": "Introduction",
+        "title": "Introduction to Javascript DOM",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "dom": {
+        "name": "dom",
+        "title": "The HTML DOM (Document Object Model)",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "methods": {
+        "name": "methods",
+        "title": "JavaScript - HTML DOM Methods",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "document": {
+        "name": "document",
+        "title": "JavaScript HTML DOM Document",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "html": {
+        "name": "html",
+        "title": "JavaScript HTML DOM - Changing HTML",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "css": {
+        "name": "css",
+        "title": "JavaScript HTML DOM - Changing CSS",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "events": {
+        "name": "events",
+        "title": "JavaScript HTML DOM Events",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    },
+    "eventlistener": {
+        "name": "eventlistener",
+        "title": "JavaScript HTML DOM EventListener",
+        "video": "https://www.youtube.com/embed/oHg5SJYRHA0"
+    }
+}

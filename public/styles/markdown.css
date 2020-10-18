@@ -1,0 +1,55 @@
+.markdown {
+    line-height: 1.55rem;
+}
+
+.markdown > * > * {
+    margin-bottom: 18px;
+}
+
+.markdown h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 12px 0 24px 0;
+}
+
+.markdown h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 12px 0 24px 0;
+}
+
+.markdown pre {
+    display: inline-block;
+    white-space: pre-wrap;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    padding: 10px 20px;
+    background-color: #F8F8F8;
+}
+
+.markdown code {
+    font-family: monospace;
+    color: #C7254E;
+    border-radius: 0.25rem;
+    background-color: #F9F2F4;
+}
+
+.markdown code * {
+    color: #C7254E;
+}
+
+.markdown pre code {
+    background-color: transparent !important;
+}
+
+.markdown ul {
+    margin-left: 2rem;
+}
+
+.markdown.blog {
+    line-height: 1.6rem;
+}
+
+.markdown.blog p {
+    font-size: 1.1rem;
+}
